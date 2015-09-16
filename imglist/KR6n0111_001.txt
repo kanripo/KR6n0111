@@ -1,0 +1,5 @@
+001-0882c37	TKD 17-0755a	buddhist/K-koreana/17-tif/0700-0799/17_0755_A.TIF
+001-0883a15	TKD 17-0755b	buddhist/K-koreana/17-tif/0700-0799/17_0755_B.TIF
+001-0883b05	TKD 17-0755c	buddhist/K-koreana/17-tif/0700-0799/17_0755_C.TIF
+001-0883a00	T 001-0883a	buddhist/T-taisho/T31/08/T31-0883.png
+001-0883b00	T 001-0883b	buddhist/T-taisho/T31/08/T31-0883.png
